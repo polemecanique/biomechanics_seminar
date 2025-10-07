@@ -14,9 +14,9 @@ project:
   type: website
   output-dir: public
 website:
-  title: "Pôle Méca seminar series"
-  site-url: https://polemecanique.github.io/
-  description: "Pôle Méca seminar series website"
+  title: "Biomechanics seminar @IPP"
+  site-url: https://polemecanique.github.io/biomechanics_seminar/
+  description: "Biomechanics @IPP"
   navbar:
     # logo: "Resources/Images/Logotype-X_ENSTA-Ecoles-Horizontal-Blanc.png"
     logo: "Resources/Images/Logotype_IPP_X_ENSTA.svg"
@@ -25,12 +25,8 @@ website:
         text: Home
       - href: Schedule.qmd
         text: Schedule
-      - href: Registration.qmd
-        text: Register
       - href: PastSeminarsArchive.qmd
         text: Archive
-      - href: AdditionalResources.qmd
-        text: Miscellaneous
       - href: "https://polemecanique.github.io"
         text: Pôle Mécanique
 

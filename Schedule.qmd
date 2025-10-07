@@ -14,7 +14,7 @@ format:
     style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
     src="https://calendar.google.com/calendar/embed?src=ce6aa1df5deecff9e399ada1ca53323a5752b4a29e50df8e6a5d8ef4ad9db118%40group.calendar.google.com&ctz=Europe%2FParis"
     sandbox="allow-scripts allow-same-origin allow-top-navigation"
-    allowTransparency="true" scrolling="no" 
+    allowTransparency="true" scrolling="no" mode="AGENDA"
     frameborder="0" height="600px" width="100%"></iframe>
 
 
