@@ -12,7 +12,7 @@ format:
     page-layout: full
 ---
 
-## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the internal Pôle Méca internal seminar series webpage!
+## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the biomechanics seminar series webpage!
 
 This wiki serves as a central hub for the biomechanics seminar series at the Institut Polytechnique de Paris. 
 
