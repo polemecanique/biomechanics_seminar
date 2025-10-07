@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "Schedule.html#google-calendar",
-    "href": "Schedule.html#google-calendar",
-    "title": "Biomechanics seminar @IPP",
-    "section": "   Google calendar",
-    "text": "Google calendar"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Biomechanics seminar @IPP",
@@ -19,5 +12,12 @@
     "title": "Biomechanics seminar @IPP",
     "section": "",
     "text": "This wiki serves as a central hub for the Pôle Méca internal seminar series. This series consists of weekly seminars co-organized by all labs from the Pôle Mécanique. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!\nHere, you will find:\n\nSchedule: View the upcoming seminar schedule.\nPast Seminars Archive: Access previous seminar presentations and slide decks."
+  },
+  {
+    "objectID": "Schedule.html#google-calendar",
+    "href": "Schedule.html#google-calendar",
+    "title": "Biomechanics seminar @IPP",
+    "section": "   Google calendar",
+    "text": "Google calendar"
   }
 ]
