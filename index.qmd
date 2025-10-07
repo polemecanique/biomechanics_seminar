@@ -14,13 +14,13 @@ format:
 
 ## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the internal Pôle Méca internal seminar series webpage!
 
-This wiki serves as a central hub for the Pôle Méca internal seminar series. This series consists of **weekly seminars** co-organized by all labs from the **Pôle Mécanique**. Anyone (PhD students, postdocs, and permanent faculty members) are welcome to present their work!
+This wiki serves as a central hub for the biomechanics seminar series at the Institut Polytechnique de Paris. 
 
 Here, you will find:
 
 * [**Schedule**](Schedule.qmd): View the upcoming seminar schedule.
 * [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
-
+* [**Mailling page**](https://groupes.renater.fr/sympa/info/biomechanics-at-ipp): Subscription page to the mailling list
 
 ![](Resources/Images/PoleMeca.jpg)
 
