@@ -6,7 +6,7 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/polemecanique/internal_seminars
+      href: https://polemecanique.github.io/biomechanics_seminar/
 format:
   html:
     page-layout: full
