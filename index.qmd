@@ -6,7 +6,7 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://polemecanique.github.io/biomechanics_seminar/
+      href: https://github.com/polemecanique/biomechanics_seminar
 format:
   html:
     page-layout: full
@@ -14,7 +14,7 @@ format:
 
 ## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the biomechanics seminar series webpage!
 
-This wiki serves as a central hub for the biomechanics seminar series at the Institut Polytechnique de Paris. 
+This wiki serves as a central hub for the bio-mechanics seminar series at the Institut Polytechnique de Paris. 
 
 Here, you will find:
 

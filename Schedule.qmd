@@ -8,7 +8,7 @@ format:
 :::: {style='margin-top: 3em;'}
 ::::
 
-## {{< iconify fa6-solid:calendar-days >}} &nbsp; Google calendar
+## {{< iconify fa6-solid:calendar-days >}} &nbsp; Schedule
 
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=ce6aa1df5deecff9e399ada1ca53323a5752b4a29e50df8e6a5d8ef4ad9db118%40group.calendar.google.com&amp;ctz=Europe%2FParis;color=%233F51B5&amp;mode=AGENDA&amp;hl=en&amp;showTitle=0&amp;showCalendars=0"
